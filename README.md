@@ -110,5 +110,5 @@ This script hashes files, it does not execute them. Still:
 ---
 
 ## License
-
-Internal tool - set a license if you plan to distribute publicly.
+### The Unlicense
+[LICENSE.md](LICENSE.md)
